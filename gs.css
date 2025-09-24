@@ -30,6 +30,6 @@
   color: black;
 }
 
-.zara .name { color: purple; }
-.fitz .name { color: darkred; }
-.group .name { color: blue; }
+.name.zara   { color: purple; }
+.name.fitz { color: darkred; }
+.name.group { color: blue; }
