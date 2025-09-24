@@ -30,6 +30,11 @@
   color: black;
 }
 
+.name:hover {
+  text-shadow: 2px 2px 6px blue;
+  border: 2px solid orange;
+}
+
 .name.zara   { color: purple; }
 .name.fitz { color: darkred; }
 .name.group { color: blue; }
