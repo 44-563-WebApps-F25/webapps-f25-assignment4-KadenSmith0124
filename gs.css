@@ -1,0 +1,35 @@
+.speech {
+  font-family: Georgia, serif;
+  font-size: 1rem;
+  color: black;
+}
+
+.song {
+  font-family: "Palatino Linotype", serif;
+  font-size: 1rem;
+  font-style: italic;
+  color: black;
+}
+
+.direction {
+  font-family: Arial, sans-serif;
+  font-size: 1rem;
+  color: black;
+  background-color: #f0f0f0;
+}
+
+.direction:hover {
+  background-color: #d0d0d0;
+  color: white;
+}
+
+.name {
+  font-family: Helvetica, sans-serif;
+  font-size: 1rem;
+  font-weight: bold;
+  color: black;
+}
+
+.zara .name { color: purple; }
+.fitz .name { color: darkred; }
+.group .name { color: blue; }
